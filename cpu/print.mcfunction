@@ -1,0 +1,8 @@
+execute @e[type=armor_stand,name=col17,score_CPU_functions_min=1] ~ ~ ~ tellraw @p ["",{"text":"Register 0 value is: ","color":"yellow"},{"score":{"name":"reg0","objective":"CPU_registers"},"color":"green"}]
+execute @e[type=armor_stand,name=col18,score_CPU_functions_min=1] ~ ~ ~ tellraw @p ["",{"text":"Register 1 value is: ","color":"yellow"},{"score":{"name":"reg1","objective":"CPU_registers"},"color":"green"}]
+execute @e[type=armor_stand,name=col19,score_CPU_functions_min=1] ~ ~ ~ tellraw @p ["",{"text":"Register 2 value is: ","color":"yellow"},{"score":{"name":"reg2","objective":"CPU_registers"},"color":"green"}]
+execute @e[type=armor_stand,name=col20,score_CPU_functions_min=1] ~ ~ ~ tellraw @p ["",{"text":"Register 3 value is: ","color":"yellow"},{"score":{"name":"reg3","objective":"CPU_registers"},"color":"green"}]
+execute @e[type=armor_stand,name=col21,score_CPU_functions_min=1] ~ ~ ~ tellraw @p ["",{"text":"Register 4 value is: ","color":"yellow"},{"score":{"name":"reg4","objective":"CPU_registers"},"color":"green"}]
+execute @e[type=armor_stand,name=col22,score_CPU_functions_min=1] ~ ~ ~ tellraw @p ["",{"text":"Register 5 value is: ","color":"yellow"},{"score":{"name":"reg5","objective":"CPU_registers"},"color":"green"}]
+execute @e[type=armor_stand,name=col23,score_CPU_functions_min=1] ~ ~ ~ tellraw @p ["",{"text":"Register 6 value is: ","color":"yellow"},{"score":{"name":"reg6","objective":"CPU_registers"},"color":"green"}]
+execute @e[type=armor_stand,name=col24,score_CPU_functions_min=1] ~ ~ ~ tellraw @p ["",{"text":"Register 7 value is: ","color":"yellow"},{"score":{"name":"reg7","objective":"CPU_registers"},"color":"green"}]
